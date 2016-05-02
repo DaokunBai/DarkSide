@@ -2,6 +2,9 @@
 
 A dark side theme using flat colors
 
+> - Luke: Is the dark side stronger?
+- Yoda: No, no, no. Quicker, easier, more seductive.
+
 ![](Screenshots/Banner.png)
 
 ### Xcode
