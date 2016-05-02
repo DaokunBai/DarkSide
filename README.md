@@ -8,7 +8,15 @@ A dark side theme using flat colors
 [![License](https://img.shields.io/cocoapods/l/Construction.svg?style=flat)](http://cocoadocs.org/docsets/Construction)
 [![Platform](https://img.shields.io/cocoapods/p/Construction.svg?style=flat)](http://cocoadocs.org/docsets/Construction)
 
-## Installation
+![](Screenshots/Banner.png)
+
+### Xcode
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/onmyway133/DarkSide/master/Xcode/install.sh | sh
+```
+
+![](Screenshots/Xcode.png)
 
 ## Palette
 
@@ -104,6 +112,10 @@ A dark side theme using flat colors
     </tr>
 </table>
 
+## Credit
+
+- https://flatuicolors.com/
+- https://atom.io/themes/one-dark-atom
 
 ## Author
 
