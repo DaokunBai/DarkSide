@@ -7,4 +7,4 @@ DOWNLOAD_URI=https://raw.githubusercontent.com/onmyway133/DarkSide/master/Xcode/
 THEME_DIR="${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes"
 
 mkdir -p "${THEME_DIR}"
-curl $DOWNLOAD_URI -o -"${THEME_DIR}/${THEME}"
+curl $DOWNLOAD_URI -o "${THEME_DIR}/${THEME}"
