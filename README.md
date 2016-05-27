@@ -120,8 +120,8 @@ Khoa Pham, onmyway133@gmail.com
 
 ## Contributing
 
-We would love you to contribute to **Construction**, check the [CONTRIBUTING](https://github.com/onmyway133/Construction/blob/master/CONTRIBUTING.md) file for more info.
+We would love you to contribute to **DarkSide**, check the [CONTRIBUTING](https://github.com/onmyway133/Construction/blob/master/CONTRIBUTING.md) file for more info.
 
 ## License
 
-**Construction** is available under the MIT license. See the [LICENSE](https://github.com/onmyway133/Construction/blob/master/LICENSE.md) file for more info.
+**DarkSide** is available under the MIT license. See the [LICENSE](https://github.com/onmyway133/DarkSide/blob/master/LICENSE.md) file for more info.
